@@ -1,0 +1,14 @@
+# Datos crudos: pueden contener datos personales (LOPDP)
+data/crudos/
+
+# Secretos (la sal de seudonimización vive aquí)
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
